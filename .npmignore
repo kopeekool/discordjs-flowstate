@@ -1,0 +1,13 @@
+node_modules/
+coverage/
+tests/
+examples/
+.github/
+*.log
+*.tsbuildinfo
+.eslintrc*
+.prettierrc*
+vitest.config.ts
+tsup.config.ts
+tsconfig.json
+.gitignore
